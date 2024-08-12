@@ -1,0 +1,27 @@
+.ColorPicker {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    padding: 0.5rem;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: max-content;
+    height: max-content;
+}
+
+.ColorOption {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    transition: transform 0.1s ease-in-out;
+    &:hover {
+        transform: scale(1.1);
+    }
+}
+
+.Selected {
+    border: 2px solid #000;
+}

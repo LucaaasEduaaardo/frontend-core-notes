@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+:root {
+    --color-1: #bae2ff;
+    --color-2: #ffcab9;
+    --color-3: #b9ffdd;
+    --color-4: #f99494;
+    --color-5: #ffe8ac;
+    --color-6: #9dd6ff;
+    --color-7: #eca2ff;
+    --color-8: #cdcdcd;
+    --color-9: #daff8b;
+    --color-10: #979797;
+    --color-11: #ffa285;
+    --color-12: #a99a7c;
+    font-size: 62.5%;
+}
+
+* {
+    font-size: 1.4rem;
+    padding: 0;
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    box-sizing: border-box;
+    color: #4f4f4d;
+}
+
+body {
+    margin: 0;
+    overflow-x: hidden;
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    height: 100vh;
+    width: 100vw;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size: 1.6rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 17px;
+    color: #4f4f4d;
+}
+
+.font-small {
+    font-weight: 400;
+    font-size: 0.9rem !important;
+    line-height: 1.1rem;
+    color: #9a9a9a;
+}
+
+.font-regular {
+    font-weight: 400;
+    font-style: normal;
+}
+
+.font-bold {
+    font-weight: 700;
+    color: #4f4f4d;
+    line-height: 17px;
+    font-style: normal;
+}

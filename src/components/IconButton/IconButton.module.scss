@@ -1,0 +1,25 @@
+.IconButton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.5rem;
+    border-radius: 50%;
+    background-color: transparent;
+    border: none;
+    transition: background-color 0.3s ease;
+
+    &:hover,
+    &:focus {
+        background-color: #ffe3b3 !important;
+    }
+
+    &:active {
+        background-color: #ffd199 !important;
+    }
+
+    & > * {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}

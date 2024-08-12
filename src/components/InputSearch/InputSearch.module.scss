@@ -1,0 +1,17 @@
+.InputSearch {
+    background: #ffffff;
+    border: 1px solid #d9d9d9;
+    border-right: 0;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.25);
+    border-radius: 3px;
+
+    input {
+        border: none;
+        outline: none;
+    }
+
+    .icon {
+        border: none;
+        background: transparent;
+    }
+}
