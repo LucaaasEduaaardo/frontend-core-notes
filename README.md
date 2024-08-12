@@ -1,3 +1,8 @@
+# [Assista ao vídeo de demonstração](https://drive.google.com/file/d/1ZJZOj3_fa_FfItDlxWnF121OaIba2O8h/view?usp=drive_link)
+# [Assista ao vídeo de demonstração](https://drive.google.com/file/d/1ZJZOj3_fa_FfItDlxWnF121OaIba2O8h/view?usp=drive_link)
+# [Assista ao vídeo de demonstração](https://drive.google.com/file/d/1ZJZOj3_fa_FfItDlxWnF121OaIba2O8h/view?usp=drive_link)
+# [Assista ao vídeo de demonstração](https://drive.google.com/file/d/1ZJZOj3_fa_FfItDlxWnF121OaIba2O8h/view?usp=drive_link)
+
 # Frontend Core Notes
 
 Este repositório contém o código-fonte de um sistema de gerenciamento e criação de notas, desenvolvido utilizando React. A aplicação permite criar, ler, atualizar e excluir tarefas, além de oferecer funcionalidades como marcação de itens favoritos, definição de cores para as tarefas, filtros e mais.
